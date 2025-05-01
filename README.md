@@ -46,8 +46,8 @@ yolo-unet-avs/
 2. Install dependencies (`conda` or `pip`)
 
 3. Run:
-   - `notebooks/unet_segmentation.ipynb` for segmentation
-   - `notebooks/yolo_detection.ipynb` for object detection
+   - `notebooks/semantic_segmentation_unet_carla.ipynb` for segmentation
+   - `notebooks/object_detection_yolov2ipynb.ipynb` for object detection
 
 
 ## Working List of Projects To Explore
