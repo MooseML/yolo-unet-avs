@@ -1,0 +1,8 @@
+data/segmentation/images/*
+data/segmentation/masks/*
+data/detection/model_data/variables/
+data/detection/sample_images/
+notebooks/outputs/segmentation/
+outputs/
+assets/detection_media/
+src/tests/
